@@ -1,0 +1,30 @@
+{
+  "name": "namste-react-2",
+  "version": "1.0.0",
+  "description": "This is food ordering app using react.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulgund/react-app.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rahul Gund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulgund/react-app/issues"
+  },
+  "homepage": "https://github.com/rahulgund/react-app#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
